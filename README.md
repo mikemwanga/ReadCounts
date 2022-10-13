@@ -8,7 +8,8 @@ environments and due to large sizes of reads and host files involved, this proce
 
 Working with [LathcBio](https://latch.bio/), I have automated the read-count step within the RNASeq workflow.
 
-[ReadCount](https://github.com/mikemwanga/ReadCounts) tool takes in host reference genome and its associated annotation file plus filtered raw reads and outputs 
+[ReadCount](https://console.latch.bio/workflows/82370/info) tool takes in host reference genome and its associated annotation file plus filtered raw reads and outputs 
 count data that can be taken forward for analysis.
 
 
+Try it by following this [Link](https://console.latch.bio/workflows/82370/info)
